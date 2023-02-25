@@ -1,0 +1,40 @@
+{
+    "Employees" : [
+    {
+        "name": "Jitendra",
+        "DOB": "14 Jan 1994",
+        "height": "5 ft 3 inch",
+        "city": "Hazaribagh",    
+        "state": "Jharkhand"
+
+    },
+    {
+        "name": "Ravi",
+        "DOB": "15 Aug 1994",
+        "height": "6 ft 3 inch",
+        "city": "Patna",    
+        "state": "Bihar"
+    },
+    {
+        "name": "Rohan",
+        "DOB": "17 Feb 1997",
+        "height": "4 ft 9 inch",
+        "city": "Bangalore",    
+        "state": "Karnataka"
+    },
+    {
+        "name": "Ram",
+        "DOB": "17 March 1997",
+        "height": "5 ft 10 inch",
+        "city": "Ranchi",    
+        "state": "Jharkhand"
+    },
+    {
+        "name": "Lakhan",
+        "DOB": "17 Aug 1997",
+        "height": "6 ft 1 inch",
+        "city": "Chennai",    
+        "state": "Tamil Nadu"
+    }
+    ]
+}
